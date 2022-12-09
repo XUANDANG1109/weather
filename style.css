@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background: #222;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#show1,#show2,#show3,#show4,#show5,#show6,#show7,#show8,#show9 {
+    color: blue;
+    font-size: 40%;
+    position: absolute;
+    width: 50%;
+    border:none;
+}
+
+
+#city1,#city2,#city3,#city4,#city5,#city6,#city7,#city8,#city9{
+    width: 40%;
+    position: absolute;
+      height: auto;
+}
+
+.container {
+    position: relative;
+    color: rgb(194, 39, 39);
+    font-size:1.5rem;
+  }
